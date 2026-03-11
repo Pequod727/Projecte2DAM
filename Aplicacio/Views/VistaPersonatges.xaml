@@ -5,10 +5,89 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:Aplicacio.Views"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
-      Title="VistaPersonatges">
+      d:DesignHeight="600" d:DesignWidth="900"
+      Title="VistaPersonatges"
+      Loaded="Page_Loaded">
 
-    <Grid>
-        
+    <Page.Resources>
+        <Style x:Key="BotoAccio" TargetType="Button">
+            <Setter Property="Foreground" Value="#F5F5F5"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="15,8"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="3">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#2A2A2A"/>
+            <Setter Property="Foreground" Value="#F5F5F5"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="BorderThickness" Value="0,0,1,0"/>
+            <Setter Property="BorderBrush" Value="#444"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="#121212">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="20,20,20,10">
+            <Button Content="⬅ Tornar al Menú" Style="{StaticResource BotoAccio}" Background="#333333" Click="BtnTornar_Click"/>
+            <TextBlock Text="GESTIÓ DE PERSONATGES" FontSize="24" FontWeight="Bold" Foreground="#F5F5F5" Margin="20,0,0,0" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <Grid Grid.Row="1" Margin="20,10,20,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" Text="Buscar:" Foreground="#B0B0B0" VerticalAlignment="Center" FontSize="16" Margin="0,0,10,0"/>
+
+            <TextBox x:Name="txtFiltre" Grid.Column="1" Height="35" FontSize="16" Padding="5,2" 
+                     Background="#1E1E1E" Foreground="#F5F5F5" BorderBrush="#7A1121" BorderThickness="1" 
+                     TextChanged="txtFiltre_TextChanged" VerticalContentAlignment="Center"/>
+
+            <Button Grid.Column="2" Content="+ Nou Personatge" Style="{StaticResource BotoAccio}" Background="#7A1121" Margin="20,0,0,0" Click="BtnNou_Click"/>
+        </Grid>
+
+        <DataGrid x:Name="dgPersonatges" Grid.Row="2" Margin="20,0,20,20" 
+                  AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" 
+                  IsReadOnly="True" SelectionMode="Single"
+                  Background="#1E1E1E" RowBackground="#1E1E1E" AlternatingRowBackground="#181818" 
+                  Foreground="#F5F5F5" BorderThickness="0" GridLinesVisibility="Horizontal" HorizontalGridLinesBrush="#333333"
+                  MouseDoubleClick="dgPersonatges_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Cod" Binding="{Binding Id}" Width="60"/>
+                <DataGridTextColumn Header="Nom" Binding="{Binding Nom}" Width="*"/>
+                <DataGridTextColumn Header="Vida" Binding="{Binding Vida}" Width="70"/>
+                <DataGridTextColumn Header="Atac" Binding="{Binding Atac}" Width="70"/>
+                <DataGridTextColumn Header="Defensa" Binding="{Binding Defensa}" Width="70"/>
+                <DataGridTextColumn Header="Velocitat" Binding="{Binding Velocitat}" Width="80"/>
+                <DataGridCheckBoxColumn Header="Jugable" Binding="{Binding Jugable}" Width="80"/>
+
+                <DataGridTemplateColumn Header="Accions" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Esborrar" Background="#A3162D" Foreground="White" BorderThickness="0" 
+                                    Padding="10,5" Cursor="Hand" Margin="2" Click="BtnEsborrar_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Page>

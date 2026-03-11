@@ -12,7 +12,15 @@ namespace Aplicacio.Views
 
         private void BtnOpcio_Click(object sender, RoutedEventArgs e)
         {
-            // Proper pas: Enllaçar aquests clics amb les pàgines de llista
+            var boto = sender as Button;
+            if (boto != null)
+            {
+                if (boto.Content.ToString() == "Gestió de Personatges")
+                {
+                    NavigationService?.Navigate(new VistaPersonatges());
+                }
+                // Els altres botons els enllaçarem quan fem les vistes
+            }
         }
 
         private void BtnSortir_Click(object sender, RoutedEventArgs e)

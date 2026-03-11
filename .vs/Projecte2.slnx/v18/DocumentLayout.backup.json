@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\vistapersonatges.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistapersonatges.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\formularipersonatge.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\formularipersonatge.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\formularipersonatge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\formularipersonatge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\vistapersonatges.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistapersonatges.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\formularinivell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\formularipersonatge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\formularipersonatge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\vistahabilitats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistahabilitats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\vistanivells.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistanivells.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\aplicacio\\views\\vistapersonatges.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistapersonatges.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,57 +86,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormulariPersonatge.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
+              "RelativeToolTip": "Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAUwK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:50:35.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VistaPersonatges.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaPersonatges.xaml.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaPersonatges.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaPersonatges.xaml.cs",
+              "RelativeToolTip": "Aplicacio\\Views\\VistaPersonatges.xaml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:33:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Menu.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\Menu.xaml.cs",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\Menu.xaml.cs",
               "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\Menu.xaml.cs",
               "RelativeToolTip": "Aplicacio\\Views\\Menu.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA0wB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T18:02:31.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SplashScreen.xaml",
-              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\SplashScreen.xaml",
-              "RelativeDocumentMoniker": "Aplicacio\\Views\\SplashScreen.xaml",
-              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\SplashScreen.xaml",
-              "RelativeToolTip": "Aplicacio\\Views\\SplashScreen.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T17:57:55.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\MainWindow.xaml",
-              "RelativeToolTip": "Aplicacio\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-09T19:54:02.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Aplicacio\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T19:54:01.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SplashScreen.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\SplashScreen.xaml.cs",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\SplashScreen.xaml.cs",
@@ -136,12 +133,11 @@
               "RelativeToolTip": "Aplicacio\\Views\\SplashScreen.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:02:19.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T18:02:19.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Menu.xaml",
               "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\Menu.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\Menu.xaml",
@@ -153,44 +149,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormulariItemHabilitat.xaml",
-              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariItemHabilitat.xaml",
-              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariItemHabilitat.xaml",
-              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariItemHabilitat.xaml",
-              "RelativeToolTip": "Aplicacio\\Views\\FormulariItemHabilitat.xaml",
+              "DocumentIndex": 3,
+              "Title": "VistaPersonatges.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaPersonatges.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaPersonatges.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaPersonatges.xaml",
+              "RelativeToolTip": "Aplicacio\\Views\\VistaPersonatges.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T17:54:44.317Z",
+              "WhenOpened": "2026-03-11T17:53:12.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Aplicacio\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\AssemblyInfo.cs",
-              "RelativeToolTip": "Aplicacio\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:01:20.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormulariNivell.xaml",
-              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariNivell.xaml",
-              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariNivell.xaml",
-              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariNivell.xaml",
-              "RelativeToolTip": "Aplicacio\\Views\\FormulariNivell.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T17:54:23.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "FormulariPersonatge.xaml",
               "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariPersonatge.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariPersonatge.xaml",
@@ -202,31 +173,97 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Aplicacio\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:54:01.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\MainWindow.xaml",
+              "RelativeToolTip": "Aplicacio\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-09T19:54:02.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SplashScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\SplashScreen.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\SplashScreen.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\SplashScreen.xaml",
+              "RelativeToolTip": "Aplicacio\\Views\\SplashScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T17:57:55.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormulariItemHabilitat.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariItemHabilitat.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariItemHabilitat.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariItemHabilitat.xaml",
+              "RelativeToolTip": "Aplicacio\\Views\\FormulariItemHabilitat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T17:54:44.317Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\AssemblyInfo.cs",
+              "RelativeToolTip": "Aplicacio\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:01:20.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormulariNivell.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariNivell.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariNivell.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\FormulariNivell.xaml",
+              "RelativeToolTip": "Aplicacio\\Views\\FormulariNivell.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T17:54:23.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "VistaHabilitats.xaml",
               "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaHabilitats.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaHabilitats.xaml",
               "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaHabilitats.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\VistaHabilitats.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T17:53:50.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T17:53:50.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "VistaItems.xaml",
               "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaItems.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaItems.xaml",
               "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaItems.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\VistaItems.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T17:53:37.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T17:53:37.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "VistaNivells.xaml",
               "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaNivells.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaNivells.xaml",
@@ -234,18 +271,6 @@
               "RelativeToolTip": "Aplicacio\\Views\\VistaNivells.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T17:53:23.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VistaPersonatges.xaml",
-              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaPersonatges.xaml",
-              "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaPersonatges.xaml",
-              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Aplicacio\\Views\\VistaPersonatges.xaml",
-              "RelativeToolTip": "Aplicacio\\Views\\VistaPersonatges.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T17:53:12.743Z",
               "EditorCaption": ""
             }
           ]
