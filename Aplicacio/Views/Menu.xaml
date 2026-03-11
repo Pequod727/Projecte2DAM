@@ -1,0 +1,51 @@
+﻿<Page x:Class="Aplicacio.Views.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Aplicacio.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900"
+      Title="Menu">
+
+    <Page.Resources>
+        <Style x:Key="MenuButtonStyle" TargetType="Button">
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Foreground" Value="#F5F5F5"/>
+            <Setter Property="Background" Value="#7A1121"/>
+            <Setter Property="Margin" Value="0,12"/>
+            <Setter Property="Padding" Value="15,18"/>
+            <Setter Property="MinHeight" Value="50"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#A3162D"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="#121212">
+        <Border Background="#1E1E1E" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="40,50" CornerRadius="10" MinWidth="450">
+            <StackPanel>
+                <TextBlock Text="MENÚ PRINCIPAL" FontSize="32" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,40" Foreground="#F5F5F5" />
+
+                <Button Content="Gestió de Personatges" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click"/>
+                <Button Content="Gestió de Nivells" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click"/>
+                <Button Content="Gestió d'Ítems i Habilitats" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click"/>
+
+                <Button Content="Sortir" Style="{StaticResource MenuButtonStyle}" Background="#333333" Margin="0,40,0,0" Click="BtnSortir_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>
