@@ -37,8 +37,32 @@ public partial class AppDbContext : DbContext
     public virtual DbSet<TaulaEstat> TaulaEstats { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseMySql("server=localhost;database=pollastre;uid=admin;password=admin", Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.4.32-mariadb"));
+    {
+        var properties = new Dictionary<string, string>();
+
+        var lines = File.ReadAllLines("app.properties");
+
+        foreach (var line in lines)
+        {
+            if (!string.IsNullOrWhiteSpace(line) && line.Contains("="))
+            {
+                var parts = line.Split('=');
+                if (parts.Length == 2)
+                {
+                    properties[parts[0].Trim()] = parts[1].Trim();
+                }
+            }
+        }
+
+        string server = properties.GetValueOrDefault("db.server");
+        string database = properties.GetValueOrDefault("db.database");
+        string user = properties.GetValueOrDefault("db.user");
+        string password = properties.GetValueOrDefault("db.password");
+        string version = properties.GetValueOrDefault("db.version");
+
+        string connectionString = $"server={server};database={database};uid={user};password={password}";
+        optionsBuilder.UseMySql(connectionString, Microsoft.EntityFrameworkCore.ServerVersion.Parse(version));
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

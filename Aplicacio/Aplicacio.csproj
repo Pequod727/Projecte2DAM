@@ -9,6 +9,32 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\Images\editHabilitat.png" />
+    <None Remove="Resources\Images\editNivell.png" />
+    <None Remove="Resources\Images\editPersonatge.png" />
+    <None Remove="Resources\Images\exit.png" />
+    <None Remove="Resources\Images\mcIcona.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\Images\editHabilitat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\editNivell.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\editPersonatge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\exit.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\mcIcona.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="UserControls\" />
   </ItemGroup>
 

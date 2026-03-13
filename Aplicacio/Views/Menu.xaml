@@ -14,15 +14,15 @@
             <Setter Property="Foreground" Value="#F5F5F5"/>
             <Setter Property="Background" Value="#7A1121"/>
             <Setter Property="Margin" Value="0,12"/>
-            <Setter Property="Padding" Value="15,18"/>
-            <Setter Property="MinHeight" Value="50"/>
+            <Setter Property="Padding" Value="25,15"/>
+            <Setter Property="MinHeight" Value="60"/>
             <Setter Property="BorderThickness" Value="0"/>
             <Setter Property="Cursor" Value="Hand"/>
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="Button">
                         <Border Background="{TemplateBinding Background}" CornerRadius="5">
-                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center" Margin="{TemplateBinding Padding}"/>
                         </Border>
                     </ControlTemplate>
                 </Setter.Value>
@@ -36,15 +36,37 @@
     </Page.Resources>
 
     <Grid Background="#121212">
-        <Border Background="#1E1E1E" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="40,50" CornerRadius="10" MinWidth="450">
+        <Border Background="#1E1E1E" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="40,30" CornerRadius="10" MinWidth="450">
             <StackPanel>
-                <TextBlock Text="MENÚ PRINCIPAL" FontSize="32" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,40" Foreground="#F5F5F5" />
+                <Image Source="/Resources/Images/mcIcona.png" Width="250" Height="120"/>
 
-                <Button Content="Gestió de Personatges" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click"/>
-                <Button Content="Gestió de Nivells" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click"/>
-                <Button Content="Gestió d'Ítems i Habilitats" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click"/>
+                <Button Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Resources/Images/editPersonatge.png" Width="36" Height="36" Margin="0,0,15,0"/>
+                        <TextBlock Text="Gestió de Personatges" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
 
-                <Button Content="Sortir" Style="{StaticResource MenuButtonStyle}" Background="#333333" Margin="0,40,0,0" Click="BtnSortir_Click"/>
+                <Button Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Resources/Images/editNivell.png" Width="32" Height="32" Margin="0,0,15,0"/>
+                        <TextBlock Text="Gestió de Nivells" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Resources/Images/editHabilitat.png" Width="38" Height="38" Margin="0,0,15,0"/>
+                        <TextBlock Text="Gestió d'Ítems i Habilitats" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource MenuButtonStyle}" Background="#333333" Margin="0,40,0,0" Click="BtnSortir_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Resources/Images/exit.png" Width="28" Height="28" Margin="0,0,15,0"/>
+                        <TextBlock Text="Sortir" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
             </StackPanel>
         </Border>
     </Grid>

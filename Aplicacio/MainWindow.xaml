@@ -4,8 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Aplicacio"
-        mc:Ignorable="d"
-        Title="Gestor de Moment Crític" Height="600" Width="900" WindowStartupLocation="CenterScreen" Background="#121212">
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        Title="Gestor de Moment Crític" Height="600" Width="900" Background="#121212">
     <Grid>
         <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" />
     </Grid>
