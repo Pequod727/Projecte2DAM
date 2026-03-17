@@ -3,113 +3,193 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:Aplicacio.Views"
-             mc:Ignorable="d" 
-             d:DesignHeight="600" d:DesignWidth="900">
+             xmlns:uc="clr-namespace:Aplicacio.UserControls"
+             mc:Ignorable="d" d:DesignWidth="1500" d:DesignHeight="950">
 
     <UserControl.Resources>
-        <Style x:Key="InputStyle" TargetType="TextBox">
-            <Setter Property="Background" Value="#121212"/>
-            <Setter Property="Foreground" Value="#F5F5F5"/>
-            <Setter Property="BorderBrush" Value="#444"/>
+        <Style x:Key="SectionCard" TargetType="Border">
+            <Setter Property="Background" Value="#1A1A1A"/>
+            <Setter Property="CornerRadius" Value="8"/>
+            <Setter Property="Padding" Value="25"/>
+            <Setter Property="Margin" Value="15"/>
+            <Setter Property="BorderBrush" Value="#2A2A2A"/>
             <Setter Property="BorderThickness" Value="1"/>
-            <Setter Property="Padding" Value="8"/>
-            <Setter Property="FontSize" Value="16"/>
-            <Setter Property="Margin" Value="0,0,0,15"/>
-            <Style.Triggers>
-                <Trigger Property="IsReadOnly" Value="True">
-                    <Setter Property="Background" Value="#1A1A1A"/>
-                    <Setter Property="Foreground" Value="#888"/>
-                    <Setter Property="BorderBrush" Value="#333"/>
-                </Trigger>
-            </Style.Triggers>
         </Style>
 
-        <Style TargetType="TextBlock">
-            <Setter Property="Foreground" Value="#B0B0B0"/>
-            <Setter Property="FontSize" Value="14"/>
-            <Setter Property="Margin" Value="0,0,0,5"/>
+        <Style x:Key="SkillBadge" TargetType="Border">
+            <Setter Property="Background" Value="Black"/>
+            <Setter Property="CornerRadius" Value="4"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Padding" Value="10,0"/>
+            <Setter Property="Margin" Value="0,0,8,8"/>
+            <Setter Property="BorderBrush" Value="#A3162D"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
         </Style>
 
-        <Style x:Key="BotoAccio" TargetType="Button">
-            <Setter Property="Foreground" Value="#F5F5F5"/>
-            <Setter Property="BorderThickness" Value="0"/>
-            <Setter Property="Padding" Value="15,10"/>
-            <Setter Property="Cursor" Value="Hand"/>
-            <Setter Property="FontSize" Value="16"/>
-            <Setter Property="Template">
+        <Style x:Key="BlackCombo" TargetType="ComboBox">
+            <Setter Property="Background" Value="Black"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="#444"/>
+            <Setter Property="ItemContainerStyle">
                 <Setter.Value>
-                    <ControlTemplate TargetType="Button">
-                        <Border Background="{TemplateBinding Background}" CornerRadius="3">
-                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                        </Border>
-                    </ControlTemplate>
+                    <Style TargetType="ComboBoxItem">
+                        <Setter Property="Background" Value="Black"/>
+                        <Setter Property="Foreground" Value="White"/>
+                    </Style>
                 </Setter.Value>
             </Setter>
+            <Style.Resources>
+                <SolidColorBrush x:Key="{x:Static SystemColors.WindowBrushKey}" Color="Black" />
+                <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="#A3162D" />
+                <Style TargetType="TextBox">
+                    <Setter Property="Background" Value="Black"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="CaretBrush" Value="White"/>
+                    <Setter Property="BorderThickness" Value="0"/>
+                </Style>
+            </Style.Resources>
         </Style>
     </UserControl.Resources>
 
-    <Grid Background="#1E1E1E">
+    <Grid Background="#0D0D0D">
         <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="70"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="80"/>
         </Grid.RowDefinitions>
 
-        <Border Grid.Row="0" Background="#121212" Padding="20">
-            <TextBlock x:Name="txtTitol" Text="NOU PERSONATGE" FontSize="24" FontWeight="Bold" Foreground="#F5F5F5" Margin="0"/>
+        <Border Grid.Row="0" Background="#141414" BorderBrush="#A3162D" BorderThickness="0,0,0,2">
+            <StackPanel Orientation="Horizontal" Margin="40,0">
+                <TextBlock x:Name="txtTitol" Text="CONFIGURACIÓ D'ENTITAT" VerticalAlignment="Center" Foreground="White" FontSize="18" FontWeight="Bold"/>
+                <TextBlock Text=" | ID:" VerticalAlignment="Center" Foreground="#444" Margin="15,0,5,0"/>
+                <TextBlock x:Name="txtId" Text="-" VerticalAlignment="Center" Foreground="#A3162D" FontWeight="Bold" FontSize="18"/>
+            </StackPanel>
         </Border>
 
-        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" Margin="30,20,30,0">
-            <Grid>
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+
+            <Grid HorizontalAlignment="Stretch" Margin="30,15">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="20"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
 
                 <StackPanel Grid.Column="0">
-                    <TextBlock Text="Codi (Auto-generat)"/>
-                    <TextBox x:Name="txtId" Style="{StaticResource InputStyle}" IsReadOnly="True" Text="-" />
+                    <Border Style="{StaticResource SectionCard}">
+                        <StackPanel>
+                            <TextBlock Text="DADES BÀSIQUES" Foreground="#A3162D" FontWeight="Bold" Margin="0,0,0,15"/>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="180"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Grid.Column="0" HorizontalAlignment="Center">
+                                    <TextBlock Text="IMATGE" Foreground="#555" FontSize="10" HorizontalAlignment="Center" Margin="0,0,0,5"/>
+                                    <Grid Width="150" Height="150">
+                                        <Border BorderBrush="#333" BorderThickness="1" Background="#050505" CornerRadius="4"/>
+                                        <TextBlock x:Name="txtPlatImg" Text="PER PENJAR" Foreground="#222" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="10" FontWeight="Bold"/>
+                                        <Image x:Name="imgPrev" Stretch="UniformToFill"/>
+                                    </Grid>
+                                </StackPanel>
+                                <StackPanel Grid.Column="1" Margin="25,0,0,0">
+                                    <TextBlock Text="NOM *" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                                    <TextBox x:Name="txtNom" Background="Black" Foreground="White" BorderBrush="#333" Padding="10" FontSize="16" Margin="0,0,0,15"/>
 
-                    <TextBlock Text="Nom *"/>
-                    <TextBox x:Name="txtNom" Style="{StaticResource InputStyle}" />
+                                    <TextBlock Text="TIPUS DE PERSONATGE *" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                                    <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                                        <RadioButton x:Name="rbPersonatge" Content="Personatge" Foreground="White" Margin="0,0,30,0" IsChecked="True"/>
+                                        <RadioButton x:Name="rbEnemic" Content="Enemic" Foreground="White"/>
+                                    </StackPanel>
 
-                    <TextBlock Text="Descripció"/>
-                    <TextBox x:Name="txtDescripcio" Style="{StaticResource InputStyle}" Height="80" TextWrapping="Wrap" AcceptsReturn="True" />
+                                    <TextBlock Text="URL IMATGE *" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                                    <TextBox x:Name="txtImatge" Background="Black" Foreground="White" BorderBrush="#333" Padding="8" TextChanged="TxtImatge_TextChanged"/>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
 
-                    <CheckBox x:Name="chkJugable" Content="És un personatge jugable?" Foreground="#F5F5F5" FontSize="16" Margin="0,10,0,0">
-                        <CheckBox.LayoutTransform>
-                            <ScaleTransform ScaleX="1.2" ScaleY="1.2" />
-                        </CheckBox.LayoutTransform>
-                    </CheckBox>
+                    <Border Style="{StaticResource SectionCard}">
+                        <StackPanel>
+                            <TextBlock Text="DADES ADDICIONALS" Foreground="#A3162D" FontWeight="Bold" Margin="0,0,0,15"/>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="140"/>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Grid.Column="0" Margin="0,0,25,0">
+                                    <TextBlock Text="DESCRIPCIÓ" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                                    <TextBox x:Name="txtDescripcio" Height="110" Background="Black" Foreground="White" BorderBrush="#333" TextWrapping="Wrap" AcceptsReturn="True" Margin="0,0,0,15"/>
+                                    <TextBlock Text="URL ICONA" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                                    <TextBox x:Name="txtIcona" Background="Black" Foreground="White" BorderBrush="#333" Padding="8" TextChanged="TxtIcona_TextChanged"/>
+                                </StackPanel>
+                                <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+                                    <TextBlock Text="ICONA" Foreground="#555" FontSize="10" HorizontalAlignment="Center" Margin="0,0,0,5"/>
+                                    <Grid Width="90" Height="90" Margin="0,10,0,0">
+                                        <Border BorderBrush="#333" BorderThickness="1" Background="#050505" CornerRadius="45"/>
+                                        <TextBlock x:Name="txtPlatIco" Text="PER PENJAR" Foreground="#222" FontSize="8" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                        <Image x:Name="icoPrev" Stretch="UniformToFill" Margin="10"/>
+                                    </Grid>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
                 </StackPanel>
 
-                <StackPanel Grid.Column="2">
-                    <TextBlock Text="Vida *"/>
-                    <TextBox x:Name="txtVida" Style="{StaticResource InputStyle}" />
+                <StackPanel Grid.Column="1">
+                    <Border Style="{StaticResource SectionCard}">
+                        <StackPanel>
+                            <TextBlock Text="HABILITATS (MÀXIM 4)" Foreground="#A3162D" FontWeight="Bold" Margin="0,0,0,15"/>
 
-                    <TextBlock Text="Atac *"/>
-                    <TextBox x:Name="txtAtac" Style="{StaticResource InputStyle}" />
+                            <ComboBox x:Name="cbAfegirHabilitat" Style="{StaticResource BlackCombo}" Height="35" Margin="0,0,0,20" 
+                                      SelectionChanged="CbAfegirHabilitat_SelectionChanged" IsEditable="True"/>
 
-                    <TextBlock Text="Defensa *"/>
-                    <TextBox x:Name="txtDefensa" Style="{StaticResource InputStyle}" />
+                            <ItemsControl x:Name="icHabilitatsSeleccionades">
+                                <ItemsControl.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <WrapPanel />
+                                    </ItemsPanelTemplate>
+                                </ItemsControl.ItemsPanel>
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border Style="{StaticResource SkillBadge}" MaxWidth="250">
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="{Binding TextAMostrar}" Foreground="White" VerticalAlignment="Center" FontSize="13" TextTrimming="CharacterEllipsis"/>
+                                                <Button Content="✕" Click="BtnRemoureHabilitat_Click" Tag="{Binding Id}" 
+                                                        Background="Transparent" Foreground="#A3162D" BorderThickness="0" Margin="8,0,0,0" Cursor="Hand" FontWeight="Bold"/>
+                                            </StackPanel>
+                                        </Border>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </StackPanel>
+                    </Border>
 
-                    <TextBlock Text="Velocitat *"/>
-                    <TextBox x:Name="txtVelocitat" Style="{StaticResource InputStyle}" />
-
-                    <TextBlock Text="Experiència (Base/Aportada) *"/>
-                    <TextBox x:Name="txtExperiencia" Style="{StaticResource InputStyle}" />
+                    <Border Style="{StaticResource SectionCard}">
+                        <StackPanel>
+                            <TextBlock Text="ESTADÍSTIQUES (RANG 1-255)" Foreground="#A3162D" FontWeight="Bold" Margin="0,0,0,15"/>
+                            <uc:Slider x:Name="sldVida" Titol="VIDA"/>
+                            <uc:Slider x:Name="sldAtac" Titol="ATAC"/>
+                            <uc:Slider x:Name="sldDefensa" Titol="DEFENSA"/>
+                            <uc:Slider x:Name="sldVelocitat" Titol="VELOCITAT"/>
+                            <uc:Slider x:Name="sldExperiencia" Titol="EXPERIÈNCIA" Minim="0"/>
+                        </StackPanel>
+                    </Border>
                 </StackPanel>
             </Grid>
         </ScrollViewer>
 
-        <Border Grid.Row="2" Background="#121212" Padding="20" Margin="0,20,0,0">
-            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                <Button Content="Tornar" Style="{StaticResource BotoAccio}" Background="#333333" Margin="0,0,15,0" Click="BtnTornar_Click"/>
-                <Button x:Name="btnEditar" Content="Modificar" Style="{StaticResource BotoAccio}" Background="#7A1121" Margin="0,0,15,0" Click="BtnCanviarAEdicio_Click"/>
-                <Button x:Name="btnGuardar" Content="Guardar Dades" Style="{StaticResource BotoAccio}" Background="#A3162D" Click="BtnGuardar_Click"/>
-            </StackPanel>
+        <Border Grid.Row="2" Background="#141414" Padding="40,0" BorderBrush="#222" BorderThickness="0,1,0,0">
+            <DockPanel LastChildFill="False">
+                <Button Content="TORNAR" Click="BtnTornar_Click" Background="Transparent" Foreground="#666" BorderThickness="0" Cursor="Hand" FontWeight="Bold"/>
+                <Button x:Name="btnGuardar" Content="GUARDAR PERSONATGE" DockPanel.Dock="Right" Click="BtnGuardar_Click" Width="220" Height="40" Background="#A3162D" Foreground="White" FontWeight="Bold">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="4"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </DockPanel>
         </Border>
     </Grid>
 </UserControl>

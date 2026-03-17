@@ -21,11 +21,13 @@ public partial class Personatge
 
     public string? Descripcio { get; set; }
 
-    public byte[] Imatge { get; set; } = null!;
+    public string Imatge { get; set; } = null!;
+
+    public string? Icona { get; set; }
 
     public bool Jugable { get; set; }
 
-    public virtual ICollection<Accio> Accios { get; set; } = new List<Accio>();
+    public virtual ICollection<Habilitat> Habilitats { get; set; } = new List<Habilitat>();
 
     public virtual ICollection<Nivell> NivellIdEnemic1Navigations { get; set; } = new List<Nivell>();
 
@@ -34,4 +36,6 @@ public partial class Personatge
     public virtual ICollection<Nivell> NivellIdEnemic3Navigations { get; set; } = new List<Nivell>();
 
     public virtual ICollection<Nivell> NivellIdEnemic4Navigations { get; set; } = new List<Nivell>();
+
+    public virtual ICollection<PersonatgeItem> PersonatgeItems { get; set; } = new List<PersonatgeItem>();
 }

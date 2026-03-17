@@ -11,7 +11,7 @@ public partial class TaulaEstat
 
     public string? Descripcio { get; set; }
 
-    public string Imatge { get; set; } = null!;
+    public string Icona { get; set; } = null!;
 
-    public virtual ICollection<CanviEstat> CanviEstats { get; set; } = new List<CanviEstat>();
+    public virtual ICollection<Efecte> Efectes { get; set; } = new List<Efecte>();
 }

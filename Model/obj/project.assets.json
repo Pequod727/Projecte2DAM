@@ -2480,25 +2480,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuari\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Rocosecha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj",
-      "packagesPath": "C:\\Users\\Usuari\\.nuget\\packages\\",
-      "outputPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\obj\\",
+      "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Model.csproj",
+      "packagesPath": "C:\\Users\\Rocosecha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rocosecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

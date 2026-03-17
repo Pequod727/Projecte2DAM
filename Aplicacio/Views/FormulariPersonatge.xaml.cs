@@ -1,176 +1,223 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Navigation;
+using System.Windows.Media.Imaging;
+using Microsoft.EntityFrameworkCore;
 using Model.Models;
+using Aplicacio.UserControls;
 
 namespace Aplicacio.Views
 {
+    // ENUM I CLASSE DE SUPORT PÚBLICS
     public enum ModeFormulari { Creacio, Edicio, Vista }
+
+    public class AccioComboItem
+    {
+        public decimal Id { get; set; }
+        public string Nom { get; set; }
+        public string TextAMostrar => $"{Id} - {Nom}";
+    }
 
     public partial class FormulariPersonatge : UserControl
     {
         private ModeFormulari _mode;
         private decimal? _idPersonatge;
         private Personatge _personatgeActual;
+        private List<AccioComboItem> _totesLesAccions;
+        private ObservableCollection<AccioComboItem> _habilitatsSeleccionades = new ObservableCollection<AccioComboItem>();
 
-        // Constructor sense paràmetres (útil pel dissenyador de WPF)
-        public FormulariPersonatge() : this(ModeFormulari.Creacio, null) { }
-
-        // Constructor principal on li passem el mode i la ID opcional
         public FormulariPersonatge(ModeFormulari mode, decimal? idPersonatge = null)
         {
             InitializeComponent();
             _mode = mode;
             _idPersonatge = idPersonatge;
 
-            ConfigurarInterficie();
+            icHabilitatsSeleccionades.ItemsSource = _habilitatsSeleccionades;
+            InicialitzarHabilitats();
             CarregarDades();
         }
 
-        private void ConfigurarInterficie()
+        private void InicialitzarHabilitats()
         {
-            bool esEditable = (_mode == ModeFormulari.Creacio || _mode == ModeFormulari.Edicio);
-
-            // Bloquegem o desbloquem els inputs (excepte l'ID que sempre està bloquejat)
-            txtNom.IsReadOnly = !esEditable;
-            txtDescripcio.IsReadOnly = !esEditable;
-            txtVida.IsReadOnly = !esEditable;
-            txtAtac.IsReadOnly = !esEditable;
-            txtDefensa.IsReadOnly = !esEditable;
-            txtVelocitat.IsReadOnly = !esEditable;
-            txtExperiencia.IsReadOnly = !esEditable;
-            chkJugable.IsEnabled = esEditable;
-
-            // Mostrem o amaguem botons segons el mode
-            if (_mode == ModeFormulari.Vista)
+            try
             {
-                txtTitol.Text = "FITXA DEL PERSONATGE";
-                btnGuardar.Visibility = Visibility.Collapsed;
-                btnEditar.Visibility = Visibility.Visible;
+                using (var db = new AppDbContext())
+                {
+                    _totesLesAccions = db.Accios.Select(a => new AccioComboItem { Id = a.Id, Nom = a.Nom }).ToList();
+                    RefrescarCombo();
+                }
             }
-            else if (_mode == ModeFormulari.Edicio)
+            catch (Exception ex) { MessageBox.Show("Error DB: " + ex.Message); }
+        }
+
+        private void RefrescarCombo()
+        {
+            if (_totesLesAccions == null) return;
+            cbAfegirHabilitat.ItemsSource = _totesLesAccions
+                .Where(a => !_habilitatsSeleccionades.Any(s => s.Id == a.Id))
+                .ToList();
+            cbAfegirHabilitat.DisplayMemberPath = "TextAMostrar";
+        }
+
+        private void CbAfegirHabilitat_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (cbAfegirHabilitat.SelectedItem is AccioComboItem seleccionada)
             {
-                txtTitol.Text = "EDITAR PERSONATGE";
-                btnGuardar.Visibility = Visibility.Visible;
-                btnEditar.Visibility = Visibility.Collapsed;
+                if (_habilitatsSeleccionades.Count < 4)
+                {
+                    _habilitatsSeleccionades.Add(seleccionada);
+                    RefrescarCombo();
+                }
+                else MessageBox.Show("Màxim 4 habilitats permeses.");
+
+                cbAfegirHabilitat.SelectedIndex = -1;
             }
-            else // Creacio
+        }
+
+        private void BtnRemoureHabilitat_Click(object sender, RoutedEventArgs e)
+        {
+            var boto = sender as Button;
+            if (boto?.Tag != null)
             {
-                txtTitol.Text = "NOU PERSONATGE";
-                btnGuardar.Visibility = Visibility.Visible;
-                btnEditar.Visibility = Visibility.Collapsed;
+                var id = (decimal)boto.Tag;
+                var item = _habilitatsSeleccionades.FirstOrDefault(x => x.Id == id);
+                if (item != null)
+                {
+                    _habilitatsSeleccionades.Remove(item);
+                    RefrescarCombo();
+                }
             }
         }
 
         private void CarregarDades()
         {
-            if (_mode != ModeFormulari.Creacio && _idPersonatge.HasValue)
+            using (var db = new AppDbContext())
             {
-                using (var db = new AppDbContext())
+                if (_idPersonatge.HasValue)
                 {
-                    _personatgeActual = db.Personatges.Find(_idPersonatge.Value);
-
+                    _personatgeActual = db.Personatges.Include(p => p.Habilitats).FirstOrDefault(p => p.Id == _idPersonatge);
                     if (_personatgeActual != null)
                     {
                         txtId.Text = _personatgeActual.Id.ToString();
                         txtNom.Text = _personatgeActual.Nom;
                         txtDescripcio.Text = _personatgeActual.Descripcio;
-                        txtVida.Text = _personatgeActual.Vida.ToString();
-                        txtAtac.Text = _personatgeActual.Atac.ToString();
-                        txtDefensa.Text = _personatgeActual.Defensa.ToString();
-                        txtVelocitat.Text = _personatgeActual.Velocitat.ToString();
-                        txtExperiencia.Text = _personatgeActual.Experiencia.ToString();
-                        chkJugable.IsChecked = _personatgeActual.Jugable;
+                        txtImatge.Text = _personatgeActual.Imatge;
+                        txtIcona.Text = _personatgeActual.Icona;
+                        if (_personatgeActual.Jugable) rbPersonatge.IsChecked = true; else rbEnemic.IsChecked = true;
+
+                        sldVida.Valor = (double)_personatgeActual.Vida;
+                        sldAtac.Valor = (double)_personatgeActual.Atac;
+                        sldDefensa.Valor = (double)_personatgeActual.Defensa;
+                        sldVelocitat.Valor = (double)_personatgeActual.Velocitat;
+                        sldExperiencia.Valor = (double)_personatgeActual.Experiencia;
+
+                        foreach (var h in _personatgeActual.Habilitats)
+                        {
+                            var item = _totesLesAccions.FirstOrDefault(x => x.Id == h.IdAccio);
+                            if (item != null) _habilitatsSeleccionades.Add(item);
+                        }
+                        RefrescarCombo();
                     }
                 }
-            }
-            else
-            {
-                // Si és creació, preparem un objecte buit
-                _personatgeActual = new Personatge();
+                else _personatgeActual = new Personatge();
             }
         }
 
-        // --- BOTONS D'ACCIÓ ---
-        private void BtnCanviarAEdicio_Click(object sender, RoutedEventArgs e)
+        private void TxtImatge_TextChanged(object sender, TextChangedEventArgs e) => ActualitzarPreview(txtImatge.Text, imgPrev, txtPlatImg);
+        private void TxtIcona_TextChanged(object sender, TextChangedEventArgs e) => ActualitzarPreview(txtIcona.Text, icoPrev, txtPlatIco);
+
+        private void ActualitzarPreview(string url, Image img, TextBlock placeholder)
         {
-            // Passem de Vista a Edició directament
-            _mode = ModeFormulari.Edicio;
-            ConfigurarInterficie();
+            try
+            {
+                if (!string.IsNullOrEmpty(url) && Uri.IsWellFormedUriString(url, UriKind.Absolute))
+                {
+                    img.Source = new BitmapImage(new Uri(url));
+                    placeholder.Visibility = Visibility.Collapsed;
+                }
+                else { img.Source = null; placeholder.Visibility = Visibility.Visible; }
+            }
+            catch { img.Source = null; placeholder.Visibility = Visibility.Visible; }
         }
 
         private void BtnGuardar_Click(object sender, RoutedEventArgs e)
         {
-            // Validació simple
-            if (string.IsNullOrWhiteSpace(txtNom.Text) || string.IsNullOrWhiteSpace(txtVida.Text))
+            // 1. VALIDACIONS PRÈVIES
+            if (string.IsNullOrWhiteSpace(txtNom.Text))
             {
-                MessageBox.Show("Siusplau, omple els camps obligatoris.", "Dades incompletes", MessageBoxButton.OK, MessageBoxImage.Warning);
+                MessageBox.Show("El nom del personatge és obligatori.", "Dades incompletes", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return; // Tallem l'execució aquí
+            }
+
+            if (string.IsNullOrWhiteSpace(txtImatge.Text))
+            {
+                MessageBox.Show("La URL de la imatge principal és obligatòria.", "Dades incompletes", MessageBoxButton.OK, MessageBoxImage.Warning);
                 return;
             }
 
+            if (_habilitatsSeleccionades.Count == 0)
+            {
+                MessageBox.Show("Un personatge no pot tenir menys d'1 habilitat. Siusplau, afegeix-ne alguna al catàleg.", "Error de validació", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+
+            // 2. GUARDAR DADES (Si passa les validacions)
             try
             {
                 using (var db = new AppDbContext())
                 {
-                    // Convertim els valors (Si l'usuari posa text on van números, fallarà, s'hauria de validar millor per a producció)
-                    _personatgeActual.Nom = txtNom.Text.Trim();
-                    _personatgeActual.Descripcio = txtDescripcio.Text.Trim();
-                    _personatgeActual.Vida = decimal.Parse(txtVida.Text);
-                    _personatgeActual.Atac = decimal.Parse(txtAtac.Text);
-                    _personatgeActual.Defensa = decimal.Parse(txtDefensa.Text);
-                    _personatgeActual.Velocitat = decimal.Parse(txtVelocitat.Text);
-                    _personatgeActual.Experiencia = decimal.Parse(txtExperiencia.Text);
-                    _personatgeActual.Jugable = chkJugable.IsChecked ?? false;
-
-                    // Imatge obligatòria a la base de dades. Com no tenim selector, hi posem un array buit temporalment
-                    if (_personatgeActual.Imatge == null)
-                        _personatgeActual.Imatge = new byte[0];
+                    _personatgeActual.Nom = txtNom.Text;
+                    _personatgeActual.Descripcio = txtDescripcio.Text;
+                    _personatgeActual.Imatge = txtImatge.Text;
+                    _personatgeActual.Icona = string.IsNullOrWhiteSpace(txtIcona.Text) ? null : txtIcona.Text;
+                    _personatgeActual.Jugable = rbPersonatge.IsChecked ?? true;
+                    _personatgeActual.Vida = (decimal)sldVida.Valor;
+                    _personatgeActual.Atac = (decimal)sldAtac.Valor;
+                    _personatgeActual.Defensa = (decimal)sldDefensa.Valor;
+                    _personatgeActual.Velocitat = (decimal)sldVelocitat.Valor;
+                    _personatgeActual.Experiencia = (decimal)sldExperiencia.Valor;
 
                     if (_mode == ModeFormulari.Creacio)
-                    {
                         db.Personatges.Add(_personatgeActual);
-                    }
                     else
+                        db.Update(_personatgeActual);
+
+                    db.SaveChanges();
+
+                    // Gestionem les habilitats (esborrem les velles i afegim les noves)
+                    var velles = db.Habilitats.Where(h => h.IdPersonatge == _personatgeActual.Id);
+                    db.Habilitats.RemoveRange(velles);
+                    foreach (var h in _habilitatsSeleccionades)
                     {
-                        db.Personatges.Update(_personatgeActual);
+                        db.Habilitats.Add(new Habilitat { IdPersonatge = _personatgeActual.Id, IdAccio = h.Id });
                     }
 
                     db.SaveChanges();
-                    MessageBox.Show("Dades guardades correctament!", "Èxit", MessageBoxButton.OK, MessageBoxImage.Information);
-
-                    // Un cop guardat, tornem a la llista
-                    NavegarEnrere();
+                    MessageBox.Show("Les dades s'han guardat correctament!", "Èxit", MessageBoxButton.OK, MessageBoxImage.Information);
+                    System.Windows.Navigation.NavigationService.GetNavigationService(this)?.Navigate(new VistaPersonatges());
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error al guardar les dades: " + ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("S'ha produït un error al guardar: " + ex.Message, "Error Crític", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
         private void BtnTornar_Click(object sender, RoutedEventArgs e)
         {
-            if (_mode == ModeFormulari.Creacio || _mode == ModeFormulari.Edicio)
+            MessageBoxResult resultat = MessageBox.Show(
+                "Estàs segur que vols cancel·lar? Es perdran totes les dades no guardades.",
+                "Confirmació de sortida",
+                MessageBoxButton.YesNo,
+                MessageBoxImage.Warning);
+
+            if (resultat == MessageBoxResult.Yes)
             {
-                MessageBoxResult res = MessageBox.Show(
-                    "Estàs segur que vols sortir? Es perdran els canvis no guardats.",
-                    "Confirmació",
-                    MessageBoxButton.YesNo,
-                    MessageBoxImage.Warning);
-
-                if (res != MessageBoxResult.Yes) return;
+                System.Windows.Navigation.NavigationService.GetNavigationService(this)?.Navigate(new VistaPersonatges());
             }
-
-            NavegarEnrere();
-        }
-
-        private void NavegarEnrere()
-        {
-            // Com que és un UserControl, utilitzem GetNavigationService per buscar el Frame que ens engloba
-            var ns = NavigationService.GetNavigationService(this);
-            ns?.Navigate(new VistaPersonatges());
         }
     }
 }

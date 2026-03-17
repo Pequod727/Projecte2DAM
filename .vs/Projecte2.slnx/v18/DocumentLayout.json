@@ -1,77 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\",
+  "WorkspaceRootPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\model\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\resources\\app.properties||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\resources\\app.properties||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\vistapersonatges.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistapersonatges.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\formularipersonatge.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\formularipersonatge.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\formularipersonatge.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\formularipersonatge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\formularipersonatge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\formularipersonatge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\vistapersonatges.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\vistapersonatges.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistapersonatges.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\usercontrols\\slider.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\usercontrols\\slider.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\formulariitemhabilitat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\vistapersonatges.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistapersonatges.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\usercontrols\\slider.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\usercontrols\\slider.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE82FFB5-3E7F-445D-9539-C4257315E1C3}|Model\\Model.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE82FFB5-3E7F-445D-9539-C4257315E1C3}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\aplicacio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\aplicacio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\resources\\app.properties||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\resources\\app.properties||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\formulariitemhabilitat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\formulariitemhabilitat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\formularinivell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\formularinivell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\formularinivell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\vistahabilitats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\vistahabilitats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistahabilitats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\vistaitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\vistaitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistaitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|d:\\carpetesusuari\\neck_hurts\\projecte\\projectereal\\projecte2dam\\aplicacio\\views\\vistanivells.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|c:\\users\\rocosecha\\desktop\\projecte2\\projecte2dam\\aplicacio\\views\\vistanivells.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35872CF-06F4-9512-FA20-D8C5970EFE15}|Aplicacio\\Aplicacio.csproj|solutionrelative:aplicacio\\views\\vistanivells.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -82,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,59 +110,86 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\UserControls\\Slider.xaml.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\UserControls\\Slider.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\UserControls\\Slider.xaml.cs",
+              "RelativeToolTip": "Aplicacio\\UserControls\\Slider.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:11:41.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "app.properties",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Resources\\app.properties",
-              "RelativeDocumentMoniker": "Aplicacio\\Resources\\app.properties",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Resources\\app.properties",
-              "RelativeToolTip": "Aplicacio\\Resources\\app.properties",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-11T18:59:43.952Z"
+              "Title": "Slider.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\UserControls\\Slider.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\UserControls\\Slider.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\UserControls\\Slider.xaml",
+              "RelativeToolTip": "Aplicacio\\UserControls\\Slider.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-17T14:09:58.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "VistaPersonatges.xaml.cs",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaPersonatges.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaPersonatges.xaml.cs",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaPersonatges.xaml.cs",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaPersonatges.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaPersonatges.xaml.cs",
               "RelativeToolTip": "Aplicacio\\Views\\VistaPersonatges.xaml.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAUwHwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwD0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:33:15.737Z"
+              "WhenOpened": "2026-03-11T18:33:15.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SplashScreen.xaml.cs",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\SplashScreen.xaml.cs",
-              "RelativeDocumentMoniker": "Aplicacio\\Views\\SplashScreen.xaml.cs",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\SplashScreen.xaml.cs",
-              "RelativeToolTip": "Aplicacio\\Views\\SplashScreen.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:02:19.815Z"
+              "DocumentIndex": 2,
+              "Title": "VistaPersonatges.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaPersonatges.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaPersonatges.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaPersonatges.xaml",
+              "RelativeToolTip": "Aplicacio\\Views\\VistaPersonatges.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T17:53:12.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\MainWindow.xaml",
-              "RelativeToolTip": "Aplicacio\\MainWindow.xaml",
+              "Title": "FormulariPersonatge.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\FormulariPersonatge.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariPersonatge.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\FormulariPersonatge.xaml",
+              "RelativeToolTip": "Aplicacio\\Views\\FormulariPersonatge.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-09T19:54:02.659Z",
+              "WhenOpened": "2026-03-11T17:54:08.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormulariPersonatge.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
+              "RelativeToolTip": "Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAA0wM4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:50:35.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Menu.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\Menu.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\Menu.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\Menu.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\Menu.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\Menu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T17:57:43.139Z",
@@ -154,69 +197,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Model\\Models\\AppDbContext.cs",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Model\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwC4AAABHAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Class1.cs",
+              "RelativeDocumentMoniker": "Model\\Class1.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Class1.cs",
+              "RelativeToolTip": "Model\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T19:01:40.108Z"
+              "WhenOpened": "2026-03-16T19:44:47.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Menu.xaml.cs",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\Menu.xaml.cs",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\Menu.xaml.cs",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\Menu.xaml.cs",
               "RelativeToolTip": "Aplicacio\\Views\\Menu.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:02:31.536Z"
+              "WhenOpened": "2026-03-11T18:02:31.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T19:48:45.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Aplicacio.csproj",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
+              "RelativeDocumentMoniker": "Aplicacio\\Aplicacio.csproj",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
+              "RelativeToolTip": "Aplicacio\\Aplicacio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T14:27:05.299Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FormulariPersonatge.xaml.cs",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
-              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
-              "RelativeToolTip": "Aplicacio\\Views\\FormulariPersonatge.xaml.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAUwK8AAAABAAAAAAAAAA==",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\MainWindow.xaml",
+              "RelativeToolTip": "Aplicacio\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-09T19:54:02.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SplashScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\SplashScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\Views\\SplashScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\SplashScreen.xaml.cs",
+              "RelativeToolTip": "Aplicacio\\Views\\SplashScreen.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:50:35.68Z"
+              "WhenOpened": "2026-03-11T18:02:19.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VistaPersonatges.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaPersonatges.xaml",
-              "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaPersonatges.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaPersonatges.xaml",
-              "RelativeToolTip": "Aplicacio\\Views\\VistaPersonatges.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T17:53:12.743Z"
+              "DocumentIndex": 13,
+              "Title": "app.properties",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Resources\\app.properties",
+              "RelativeDocumentMoniker": "Aplicacio\\Resources\\app.properties",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Resources\\app.properties",
+              "RelativeToolTip": "Aplicacio\\Resources\\app.properties",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-11T18:59:43.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormulariPersonatge.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\FormulariPersonatge.xaml",
-              "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariPersonatge.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\FormulariPersonatge.xaml",
-              "RelativeToolTip": "Aplicacio\\Views\\FormulariPersonatge.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T17:54:08.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\MainWindow.xaml.cs",
               "RelativeToolTip": "Aplicacio\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,78 +294,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "SplashScreen.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\SplashScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\SplashScreen.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\SplashScreen.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\SplashScreen.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\SplashScreen.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\SplashScreen.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T17:57:55.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "FormulariItemHabilitat.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\FormulariItemHabilitat.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\FormulariItemHabilitat.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariItemHabilitat.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\FormulariItemHabilitat.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\FormulariItemHabilitat.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\FormulariItemHabilitat.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T17:54:44.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Aplicacio\\AssemblyInfo.cs",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\AssemblyInfo.cs",
               "RelativeToolTip": "Aplicacio\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T18:01:20.096Z"
+              "WhenOpened": "2026-03-11T18:01:20.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "FormulariNivell.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\FormulariNivell.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\FormulariNivell.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\FormulariNivell.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\FormulariNivell.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\FormulariNivell.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\FormulariNivell.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T17:54:23.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "VistaHabilitats.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaHabilitats.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaHabilitats.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaHabilitats.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaHabilitats.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaHabilitats.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\VistaHabilitats.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T17:53:50.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "VistaItems.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaItems.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaItems.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaItems.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaItems.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaItems.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\VistaItems.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T17:53:37.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "VistaNivells.xaml",
-              "DocumentMoniker": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaNivells.xaml",
+              "DocumentMoniker": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaNivells.xaml",
               "RelativeDocumentMoniker": "Aplicacio\\Views\\VistaNivells.xaml",
-              "ToolTip": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Views\\VistaNivells.xaml",
+              "ToolTip": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Views\\VistaNivells.xaml",
               "RelativeToolTip": "Aplicacio\\Views\\VistaNivells.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T17:53:23.463Z"

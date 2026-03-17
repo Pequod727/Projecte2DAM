@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Navigation;
 
 namespace Aplicacio.Views
 {
@@ -13,13 +14,25 @@ namespace Aplicacio.Views
         private void BtnOpcio_Click(object sender, RoutedEventArgs e)
         {
             var boto = sender as Button;
-            if (boto != null)
+
+            // Verifiquem que el botó i el Tag no siguin nuls per evitar excepcions
+            if (boto != null && boto.Tag != null)
             {
-                if (boto.Content.ToString() == "Gestió de Personatges")
+                string opcio = boto.Tag.ToString();
+
+                // Naveguem segons el valor del Tag definit al XAML
+                switch (opcio)
                 {
-                    NavigationService?.Navigate(new VistaPersonatges());
+                    case "Personatges":
+                        NavigationService?.Navigate(new VistaPersonatges());
+                        break;
+                    case "Nivells":
+                        // Aquí aniria la navegació a Nivells quan estigui llesta
+                        break;
+                    case "Habilitats":
+                        // Aquí aniria la navegació a Habilitats quan estigui llesta
+                        break;
                 }
-                // Els altres botons els enllaçarem quan fem les vistes
             }
         }
 

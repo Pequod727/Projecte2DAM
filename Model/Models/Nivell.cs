@@ -7,10 +7,9 @@ public partial class Nivell
 {
     public decimal Id { get; set; }
 
-    /// <summary>
-    /// Ordre d&apos;aparició (max 99)
-    /// </summary>
     public decimal Ordre { get; set; }
+
+    public string? Fons { get; set; }
 
     public decimal? IdEnemic1 { get; set; }
 

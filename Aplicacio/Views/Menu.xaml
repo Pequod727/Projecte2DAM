@@ -40,21 +40,21 @@
             <StackPanel>
                 <Image Source="/Resources/Images/mcIcona.png" Width="250" Height="120"/>
 
-                <Button Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
+                <Button Tag="Personatges" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/Resources/Images/editPersonatge.png" Width="36" Height="36" Margin="0,0,15,0"/>
                         <TextBlock Text="Gestió de Personatges" VerticalAlignment="Center"/>
                     </StackPanel>
                 </Button>
 
-                <Button Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
+                <Button Tag="Nivells" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/Resources/Images/editNivell.png" Width="32" Height="32" Margin="0,0,15,0"/>
                         <TextBlock Text="Gestió de Nivells" VerticalAlignment="Center"/>
                     </StackPanel>
                 </Button>
 
-                <Button Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
+                <Button Tag="Habilitats" Style="{StaticResource MenuButtonStyle}" Click="BtnOpcio_Click">
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/Resources/Images/editHabilitat.png" Width="38" Height="38" Margin="0,0,15,0"/>
                         <TextBlock Text="Gestió d'Ítems i Habilitats" VerticalAlignment="Center"/>

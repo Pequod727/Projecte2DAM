@@ -20,7 +20,7 @@ namespace Aplicacio.Views
             CarregarDades();
         }
 
-        // --- CÀRREGA I FILTRAT ---
+        // Càrrega amb filtre actualitzada
         private void CarregarDades(string filtre = "")
         {
             try
@@ -55,13 +55,10 @@ namespace Aplicacio.Views
             CarregarDades(txtFiltre.Text.Trim());
         }
 
-        // --- ACCIONS DE LA LLISTA ---
         private void dgPersonatges_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
-            // Comprovem que s'hagi fet doble clic a una fila vàlida
             if (dgPersonatges.SelectedItem is Personatge personatgeSeleccionat)
             {
-                // Obrim el formulari en Mode Vista passant-li l'ID del personatge
                 NavigationService?.Navigate(new FormulariPersonatge(ModeFormulari.Vista, personatgeSeleccionat.Id));
             }
         }
@@ -74,7 +71,7 @@ namespace Aplicacio.Views
             if (personatge == null) return;
 
             MessageBoxResult resultat = MessageBox.Show(
-                $"Estàs segur que vols esborrar el personatge '{personatge.Nom}' (Cod: {personatge.Id})? \n\nAquesta acció esborrarà també totes les seves habilitats/ítems associats.",
+                $"Vols esborrar '{personatge.Nom}'? \n\nAixò eliminarà totes les seves habilitats associades.",
                 "Confirmació d'esborrat",
                 MessageBoxButton.YesNo,
                 MessageBoxImage.Warning);
@@ -85,35 +82,27 @@ namespace Aplicacio.Views
                 {
                     using (var db = new AppDbContext())
                     {
-                        var persDB = db.Personatges
-                                       .Include(p => p.Accios)
-                                       .FirstOrDefault(p => p.Id == personatge.Id);
+                        // Busquem el personatge. Gràcies al CASCADE del SQL, 
+                        // en esborrar el personatge, les habilitats i accions cauen soles.
+                        var persDB = db.Personatges.FirstOrDefault(p => p.Id == personatge.Id);
 
                         if (persDB != null)
                         {
-                            if (persDB.Accios.Any())
-                            {
-                                db.Accios.RemoveRange(persDB.Accios);
-                            }
-
                             db.Personatges.Remove(persDB);
                             db.SaveChanges();
-
                             CarregarDades(txtFiltre.Text.Trim());
                         }
                     }
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("No s'ha pogut esborrar. Error: " + ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    MessageBox.Show("No s'ha pogut esborrar: " + ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             }
         }
 
-        // --- NAVEGACIÓ ---
         private void BtnNou_Click(object sender, RoutedEventArgs e)
         {
-            // Obrim el formulari en mode Creació (sense passar cap ID)
             NavigationService?.Navigate(new FormulariPersonatge(ModeFormulari.Creacio));
         }
 

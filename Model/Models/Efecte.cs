@@ -7,21 +7,25 @@ public partial class Efecte
 {
     public decimal Id { get; set; }
 
-    public string Nom { get; set; } = null!;
-
-    public string? Descripcio { get; set; }
-
     public decimal IdAccio { get; set; }
 
-    public decimal IdObjectiu { get; set; }
+    public string Nom { get; set; } = null!;
 
     public decimal? Probabilitat { get; set; }
 
-    public virtual CanviEstat? CanviEstat { get; set; }
+    public decimal? IdEstat { get; set; }
+
+    public decimal? IdEstadistica { get; set; }
+
+    public decimal? Quantitat { get; set; }
+
+    public decimal? Duracio { get; set; }
+
+    public bool EsAfegir { get; set; }
 
     public virtual Accio IdAccioNavigation { get; set; } = null!;
 
-    public virtual Objectiu IdObjectiuNavigation { get; set; } = null!;
+    public virtual TaulaEstadistique? IdEstadisticaNavigation { get; set; }
 
-    public virtual Modificador? Modificador { get; set; }
+    public virtual TaulaEstat? IdEstatNavigation { get; set; }
 }

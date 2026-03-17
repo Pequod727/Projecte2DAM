@@ -69,7 +69,7 @@ namespace Aplicacio.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Aplicacio;V1.0.0.0;component/views/vistapersonatges.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Aplicacio;component/views/vistapersonatges.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\VistaPersonatges.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
