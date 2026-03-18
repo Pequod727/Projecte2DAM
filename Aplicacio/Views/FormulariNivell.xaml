@@ -3,10 +3,197 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:Aplicacio.Views"
-             mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-            
+             mc:Ignorable="d" d:DesignWidth="1500" d:DesignHeight="950">
+
+    <UserControl.Resources>
+        <Style x:Key="SectionCard" TargetType="Border">
+            <Setter Property="Background" Value="#1A1A1A"/>
+            <Setter Property="CornerRadius" Value="8"/>
+            <Setter Property="Padding" Value="25"/>
+            <Setter Property="Margin" Value="15"/>
+            <Setter Property="BorderBrush" Value="#2A2A2A"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <Style x:Key="ItemBadge" TargetType="Border">
+            <Setter Property="Background" Value="Black"/>
+            <Setter Property="CornerRadius" Value="4"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Padding" Value="10,0"/>
+            <Setter Property="Margin" Value="0,0,8,8"/>
+            <Setter Property="BorderBrush" Value="#A3162D"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+
+        <Style x:Key="BlackCombo" TargetType="ComboBox">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="Black"/>
+            <Setter Property="BorderBrush" Value="#444"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Height" Value="38"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Grid>
+                            <ToggleButton Focusable="false" IsChecked="{Binding Path=IsDropDownOpen,Mode=TwoWay,RelativeSource={RelativeSource TemplatedParent}}">
+                                <ToggleButton.Template>
+                                    <ControlTemplate TargetType="ToggleButton">
+                                        <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="4">
+                                            <Path Fill="#777" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0" Data="M 0 0 L 5 5 L 10 0 Z"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </ToggleButton.Template>
+                            </ToggleButton>
+                            <ContentPresenter IsHitTestVisible="False" Content="{TemplateBinding SelectionBoxItem}" ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}" ContentTemplateSelector="{TemplateBinding ItemTemplateSelector}" Margin="15,0,30,0" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                            <Popup Placement="Bottom" IsOpen="{TemplateBinding IsDropDownOpen}" AllowsTransparency="True" Focusable="False" PopupAnimation="Slide">
+                                <Grid SnapsToDevicePixels="True" MinWidth="{TemplateBinding ActualWidth}" MaxHeight="250">
+                                    <Border Background="#121212" BorderThickness="1" BorderBrush="#444" CornerRadius="4"/>
+                                    <ScrollViewer Margin="1" SnapsToDevicePixels="True">
+                                        <StackPanel IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained" />
+                                    </ScrollViewer>
+                                </Grid>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="ItemContainerStyle">
+                <Setter.Value>
+                    <Style TargetType="ComboBoxItem">
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                        <Setter Property="Padding" Value="15,10"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsHighlighted" Value="True">
+                                <Setter Property="Background" Value="#A3162D"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid Background="#0D0D0D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="#141414" BorderBrush="#A3162D" BorderThickness="0,0,0,2">
+            <StackPanel Orientation="Horizontal" Margin="40,0">
+                <TextBlock Text="CONFIGURACIÓ DE NIVELL" VerticalAlignment="Center" Foreground="White" FontSize="18" FontWeight="Bold"/>
+                <TextBlock Text=" | ID:" VerticalAlignment="Center" Foreground="#444" Margin="15,0,5,0"/>
+                <TextBlock x:Name="txtId" Text="-" VerticalAlignment="Center" Foreground="#A3162D" FontWeight="Bold" FontSize="18"/>
+            </StackPanel>
+        </Border>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <Grid HorizontalAlignment="Stretch" Margin="30,15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0">
+                    <Border Style="{StaticResource SectionCard}">
+                        <StackPanel>
+                            <TextBlock Text="DADES BÀSIQUES" Foreground="#A3162D" FontWeight="Bold" Margin="0,0,0,15"/>
+
+                            <TextBlock Text="NÚMERO D'ORDRE *" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                            <TextBox x:Name="txtOrdre" Background="Black" Foreground="White" BorderBrush="#333" Padding="10" FontSize="16" Margin="0,0,0,15"/>
+
+                            <TextBlock Text="URL DEL FONS" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                            <TextBox x:Name="txtFons" Background="Black" Foreground="White" BorderBrush="#333" Padding="10" TextChanged="TxtFons_TextChanged" Margin="0,0,0,15"/>
+
+                            <TextBlock Text="PREVISUALITZACIÓ DEL FONS" Foreground="#555" FontSize="10" HorizontalAlignment="Center" Margin="0,0,0,5"/>
+                            <Border BorderBrush="#333" BorderThickness="1" Background="#050505" CornerRadius="4" Height="200" HorizontalAlignment="Stretch">
+                                <Grid>
+                                    <TextBlock x:Name="txtPlatFons" Text="SENSE FONS" Foreground="#222" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="14" FontWeight="Bold"/>
+                                    <Image x:Name="imgFons" Stretch="UniformToFill"/>
+                                </Grid>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1">
+                    <Border Style="{StaticResource SectionCard}">
+                        <StackPanel>
+                            <TextBlock Text="ENEMICS DEL NIVELL" Foreground="#A3162D" FontWeight="Bold" Margin="0,0,0,15"/>
+
+                            <TextBlock Text="ENEMIC 1" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                            <ComboBox x:Name="cbEnemic1" Style="{StaticResource BlackCombo}" Margin="0,0,0,10"/>
+
+                            <TextBlock Text="ENEMIC 2" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                            <ComboBox x:Name="cbEnemic2" Style="{StaticResource BlackCombo}" Margin="0,0,0,10"/>
+
+                            <TextBlock Text="ENEMIC 3" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                            <ComboBox x:Name="cbEnemic3" Style="{StaticResource BlackCombo}" Margin="0,0,0,10"/>
+
+                            <TextBlock Text="ENEMIC 4" Foreground="#777" FontSize="11" FontWeight="Bold" Margin="0,0,0,5"/>
+                            <ComboBox x:Name="cbEnemic4" Style="{StaticResource BlackCombo}" Margin="0,0,0,15"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Style="{StaticResource SectionCard}">
+                        <StackPanel>
+                            <TextBlock Text="ÍTEMS AL NIVELL" Foreground="#A3162D" FontWeight="Bold" Margin="0,0,0,15"/>
+
+                            <Grid Margin="0,0,0,15">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <ComboBox x:Name="cbAfegirItem" Style="{StaticResource BlackCombo}" Grid.Column="0" Margin="0,0,10,0"/>
+                                <Button Content="AFEGIR" Click="BtnAfegirItem_Click" Grid.Column="1" Width="80" Background="#333" Foreground="White" BorderThickness="0" Cursor="Hand" FontWeight="Bold">
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="4"/>
+                                        </Style>
+                                    </Button.Resources>
+                                </Button>
+                            </Grid>
+
+                            <ItemsControl x:Name="icItemsSeleccionats">
+                                <ItemsControl.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <WrapPanel />
+                                    </ItemsPanelTemplate>
+                                </ItemsControl.ItemsPanel>
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border Style="{StaticResource ItemBadge}" MaxWidth="250">
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="{Binding Text}" Foreground="White" VerticalAlignment="Center" FontSize="13" TextTrimming="CharacterEllipsis"/>
+                                                <Button Content="✕" Click="BtnRemoureItem_Click" Tag="{Binding Id}" Background="Transparent" Foreground="#A3162D" BorderThickness="0" Margin="8,0,0,0" Cursor="Hand" FontWeight="Bold"/>
+                                            </StackPanel>
+                                        </Border>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Grid>
+        </ScrollViewer>
+
+        <Border Grid.Row="2" Background="#141414" Padding="40,0" BorderBrush="#222" BorderThickness="0,1,0,0">
+            <DockPanel LastChildFill="False">
+                <Button Content="TORNAR" Click="BtnTornar_Click" Background="Transparent" Foreground="#666" BorderThickness="0" Cursor="Hand" FontWeight="Bold"/>
+                <Button x:Name="btnGuardar" Content="GUARDAR NIVELL" DockPanel.Dock="Right" Click="BtnGuardar_Click" Width="220" Height="40" Background="#A3162D" Foreground="White" FontWeight="Bold">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="4"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </DockPanel>
+        </Border>
     </Grid>
 </UserControl>

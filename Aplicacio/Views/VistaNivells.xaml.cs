@@ -56,18 +56,16 @@ namespace Aplicacio.Views
 
         private void BtnNou_Click(object sender, RoutedEventArgs e)
         {
-            // Substitueix 'FormulariNivell' pel nom que li donis al formulari
-            // NavigationService?.Navigate(new FormulariNivell(ModeFormulari.Creacio));
-            MessageBox.Show("Aquí anirà la navegació al FormulariNivell per crear.");
+            // Obrim el formulari en mode Creació (sense passar cap ID)
+            NavigationService?.Navigate(new FormulariNivell(ModeFormulari.Creacio));
         }
 
         private void dgNivells_MouseDoubleClick(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
             if (dgNivells.SelectedItem is Nivell nivellSeleccionat)
             {
-                // Substitueix 'FormulariNivell' pel nom que li donis al formulari
-                // NavigationService?.Navigate(new FormulariNivell(ModeFormulari.Edicio, nivellSeleccionat.Id));
-                MessageBox.Show($"Aquí anirà la navegació al FormulariNivell per editar l'ID: {nivellSeleccionat.Id}");
+                // Obrim el formulari en mode Edició passant-li la ID del nivell seleccionat
+                NavigationService?.Navigate(new FormulariNivell(ModeFormulari.Edicio, nivellSeleccionat.Id));
             }
         }
 

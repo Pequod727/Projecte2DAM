@@ -27,7 +27,8 @@ namespace Aplicacio.Views
                         NavigationService?.Navigate(new VistaPersonatges());
                         break;
                     case "Nivells":
-                        // Aquí aniria la navegació a Nivells quan estigui llesta
+                        // Ara ja navega a la VistaNivell
+                        NavigationService?.Navigate(new VistaNivell());
                         break;
                     case "Habilitats":
                         // Aquí aniria la navegació a Habilitats quan estigui llesta

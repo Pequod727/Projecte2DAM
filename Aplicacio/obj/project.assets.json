@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
+      "projectUniqueName": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
       "projectName": "Aplicacio",
-      "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
+      "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
       "packagesPath": "C:\\Users\\Rocosecha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Aplicacio\\obj\\",
+      "outputPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Aplicacio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -748,8 +748,8 @@
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
           "projectReferences": {
-            "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2\\Projecte2DAM\\Model\\Model.csproj"
+            "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj"
             }
           }
         }
