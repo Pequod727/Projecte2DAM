@@ -10,7 +10,7 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="160"/>
                 <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="70"/>
+                <ColumnDefinition Width="80"/>
             </Grid.ColumnDefinitions>
 
             <TextBlock x:Name="lblTitol" Text="ESTADÍSTICA" Foreground="#999" VerticalAlignment="Center" FontSize="12" FontWeight="Bold"/>
@@ -21,10 +21,20 @@
                     VerticalAlignment="Center" Cursor="Hand"
                     Margin="15,0"/>
 
-            <Border Grid.Column="2" Background="#252525" CornerRadius="5" Padding="8,4" HorizontalAlignment="Right" MinWidth="50">
-                <TextBlock Text="{Binding ElementName=sldValor, Path=Value}" 
-                           Foreground="#A3162D" FontWeight="Black" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <Border Grid.Column="2" Background="#252525" CornerRadius="5" Padding="5,2" HorizontalAlignment="Right" MinWidth="60">
+                <TextBox x:Name="txtValor" 
+                         Text="{Binding ElementName=sldValor, Path=Value, UpdateSourceTrigger=PropertyChanged}"
+                         Foreground="#A3162D" 
+                         Background="Transparent" 
+                         BorderThickness="0"
+                         HorizontalContentAlignment="Center" 
+                         VerticalContentAlignment="Center" 
+                         FontWeight="Bold"
+                         FontSize="14"
+                         LostFocus="TxtValor_LostFocus"
+                         KeyDown="TxtValor_KeyDown"/>
             </Border>
         </Grid>
     </Border>
+    
 </UserControl>

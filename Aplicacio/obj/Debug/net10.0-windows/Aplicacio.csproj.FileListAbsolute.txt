@@ -78,7 +78,6 @@ D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\De
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
-D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariItemHabilitat.g.cs
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
@@ -91,7 +90,6 @@ D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\De
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
-D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariItemHabilitat.baml
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
 D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
@@ -266,3 +264,13 @@ C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\ne
 C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
 C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
 C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstadistica.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstat.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstadistica.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstat.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\app.properties

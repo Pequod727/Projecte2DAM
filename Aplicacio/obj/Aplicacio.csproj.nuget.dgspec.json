@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj": {}
+    "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj": {
+    "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
+        "projectUniqueName": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
         "projectName": "Aplicacio",
-        "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
-        "packagesPath": "C:\\Users\\Rocosecha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Aplicacio\\obj\\",
+        "projectPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\Aplicacio.csproj",
+        "packagesPath": "C:\\Users\\Usuari\\.nuget\\packages\\",
+        "outputPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Aplicacio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rocosecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -29,12 +30,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net10.0-windows": {
-            "framework": "net10.0-windows7.0",
+          "net10.0-windows7.0": {
             "targetAlias": "net10.0-windows",
             "projectReferences": {
-              "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj"
+              "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj": {
+                "projectPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj"
               }
             }
           }
@@ -52,8 +52,7 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net10.0-windows": {
-          "framework": "net10.0-windows7.0",
+        "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
@@ -80,7 +79,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -374,20 +373,21 @@
         }
       }
     },
-    "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj": {
+    "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\Rocosecha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\obj\\",
+        "projectPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Usuari\\.nuget\\packages\\",
+        "outputPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rocosecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -400,7 +400,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -419,7 +418,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
@@ -449,7 +447,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

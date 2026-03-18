@@ -8,12 +8,6 @@
     <Compile Update="Views\FormulariAccio.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\FormulariEfecte.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Views\FormulariItemHabilitat.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="Views\FormulariModificadorEstadistica.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

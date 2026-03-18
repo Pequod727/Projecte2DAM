@@ -2480,23 +2480,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rocosecha\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Usuari\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\Model.csproj",
-      "packagesPath": "C:\\Users\\Rocosecha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rocosecha\\Desktop\\Projecte2 - copia\\Projecte2DAM\\Model\\obj\\",
+      "projectPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\Model.csproj",
+      "packagesPath": "C:\\Users\\Usuari\\.nuget\\packages\\",
+      "outputPath": "D:\\CarpetesUsuari\\NECK_HURTS\\PROJECTE\\projecteREAL\\Projecte2DAM\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rocosecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2509,7 +2511,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -2528,7 +2529,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {
@@ -2558,7 +2558,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

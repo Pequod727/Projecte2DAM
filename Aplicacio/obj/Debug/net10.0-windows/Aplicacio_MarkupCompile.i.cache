@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\
 Aplicacio
 none
 false
 TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\App.xaml
-15-1025578634
-51544609113
-201875375286
-2212058911407
-MainWindow.xaml;UserControls\Slider.xaml;Views\FormulariAccio.xaml;Views\FormulariEfecte.xaml;Views\FormulariItemHabilitat.xaml;Views\FormulariModificadorEstadistica.xaml;Views\FormulariModificadorEstat.xaml;Views\FormulariNivell.xaml;Views\FormulariPersonatge.xaml;Views\Menu.xaml;Views\SplashScreen.xaml;Views\VistaHabilitats.xaml;Views\VistaItems.xaml;Views\VistaNivells.xaml;Views\VistaPersonatges.xaml;
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\App.xaml
+13-521834867
+6601561206
+18-974195528
+221925378919
+MainWindow.xaml;UserControls\Slider.xaml;Views\FormulariAccio.xaml;Views\FormulariModificadorEstadistica.xaml;Views\FormulariModificadorEstat.xaml;Views\FormulariNivell.xaml;Views\FormulariPersonatge.xaml;Views\Menu.xaml;Views\SplashScreen.xaml;Views\VistaHabilitats.xaml;Views\VistaItems.xaml;Views\VistaNivells.xaml;Views\VistaPersonatges.xaml;
 
-False
+True
 

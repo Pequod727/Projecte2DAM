@@ -8,7 +8,69 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="VistaHabilitats">
 
-    <Grid>
-        
+    <Page.Resources>
+        <Style x:Key="BotoAccio" TargetType="Button">
+            <Setter Property="Foreground" Value="#F5F5F5"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="15,8"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="3">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="#0D0D0D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="20">
+            <TextBlock Text="GESTIÓ D'HABILITATS I ÍTEMS)" Foreground="White" FontSize="24" FontWeight="Bold" Margin="0,0,0,20"/>
+
+            <DockPanel LastChildFill="True">
+                <Button Content="TORNAR" Click="BtnTornar_Click" Style="{StaticResource BotoAccio}" Background="#333" Margin="0,0,10,0"/>
+                <Button Content="+ NOu" Click="BtnNou_Click" Style="{StaticResource BotoAccio}" Background="#A3162D" DockPanel.Dock="Right"/>
+
+                <TextBox x:Name="txtFiltre" Margin="10,0" Height="35" Background="#1A1A1A" Foreground="White" 
+                         BorderBrush="#333" Padding="10,5" VerticalContentAlignment="Center"
+                         TextChanged="TxtFiltre_TextChanged" Tag="Cerca per nom o ID..."/>
+            </DockPanel>
+        </StackPanel>
+
+        <DataGrid x:Name="dgAccions" Grid.Row="1" Margin="20,0,20,20" AutoGenerateColumns="False" IsReadOnly="True"
+                  Background="#181818" Foreground="#F5F5F5" BorderThickness="0" GridLinesVisibility="Horizontal" 
+                  HorizontalGridLinesBrush="#333333" MouseDoubleClick="dgAccions_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Cod" Binding="{Binding Id}" Width="60"/>
+                <DataGridTextColumn Header="Nom" Binding="{Binding Nom}" Width="*"/>
+                <DataGridTextColumn Header="Tipus" Binding="{Binding TipusText}" Width="120">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="Foreground" Value="{Binding ColorTipus}"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Objectiu" Binding="{Binding IdObjectiuNavigation.Nom}" Width="150"/>
+                <DataGridTextColumn Header="Efectes" Binding="{Binding Efectes.Count}" Width="80"/>
+
+                <DataGridTemplateColumn Header="Accions" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Esborrar" Background="#A3162D" Foreground="White" BorderThickness="0" 
+                                    Padding="10,5" Cursor="Hand" Margin="2" Click="BtnEsborrar_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Page>
