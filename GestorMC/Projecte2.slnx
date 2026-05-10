@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Aplicacio/Aplicacio.csproj" />
+  <Project Path="Model/Model.csproj" Id="de82ffb5-3e7f-445d-9539-c4257315e1c3" />
+</Solution>

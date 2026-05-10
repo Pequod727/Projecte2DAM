@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UserControls\Slider.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FormulariAccio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FormulariNivell.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FormulariPersonatge.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Menu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SplashScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\VistaHabilitats.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\VistaItems.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\VistaNivells.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\VistaPersonatges.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

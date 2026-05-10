@@ -1,0 +1,606 @@
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.sourcelink.json
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariItemHabilitat.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariItemHabilitat.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.sourcelink.json
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editHabilitat.png
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editNivell.png
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editPersonatge.png
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\exit.png
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\mcIcona.png
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_Content.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariEfecte.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariItemHabilitat.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstadistica.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstat.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_Content.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editHabilitat.png
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editNivell.png
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editPersonatge.png
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\exit.png
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\mcIcona.png
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariEfecte.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariItemHabilitat.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstadistica.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstat.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.sourcelink.json
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editHabilitat.png
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editNivell.png
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editPersonatge.png
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\exit.png
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\mcIcona.png
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariEfecte.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariItemHabilitat.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstadistica.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstat.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_Content.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariEfecte.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariItemHabilitat.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstadistica.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstat.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.sourcelink.json
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+C:\Users\Rocosecha\Desktop\Projecte2 - copia\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstadistica.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstat.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstadistica.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariModificadorEstat.baml
+D:\CarpetesUsuari\NECK_HURTS\PROJECTE\projecteREAL\Projecte2DAM\Aplicacio\bin\Debug\net10.0-windows\Resources\app.properties
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\app.properties
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editHabilitat.png
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editNivell.png
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editPersonatge.png
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\exit.png
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\mcIcona.png
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_Content.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+C:\Users\rolle\Downloads\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\app.properties
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editHabilitat.png
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editNivell.png
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editPersonatge.png
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\exit.png
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\mcIcona.png
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+E:\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_Content.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+E:\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\app.properties
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editHabilitat.png
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editNivell.png
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editPersonatge.png
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\exit.png
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\mcIcona.png
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_Content.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+C:\Users\Usuari\Desktop\Projecte2DAM-Roc\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\app.properties
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editHabilitat.png
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editNivell.png
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editPersonatge.png
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\exit.png
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\mcIcona.png
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_Content.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+C:\Users\Rocosecha\Desktop\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\app.properties
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editHabilitat.png
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editNivell.png
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\editPersonatge.png
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\exit.png
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Resources\Images\mcIcona.png
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.exe
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.deps.json
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.runtimeconfig.json
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Aplicacio.pdb
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\MySqlConnector.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Model.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\bin\Debug\net10.0-windows\Model.pdb
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.AssemblyReference.cache
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\UserControls\Slider.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariNivell.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\App.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_Content.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.cache
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio_MarkupCompile.lref
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\MainWindow.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariAccio.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\FormulariPersonatge.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\Menu.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\SplashScreen.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaHabilitats.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaItems.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaNivells.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Views\VistaPersonatges.baml
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.g.resources
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfoInputs.cache
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.AssemblyInfo.cs
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.CoreCompileInputs.cache
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.csproj.Up2Date
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\refint\Aplicacio.dll
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.pdb
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\Aplicacio.genruntimeconfig.cache
+E:\Projecte2DAM-master (1)\Projecte2DAM-master\GestorMC\Aplicacio\obj\Debug\net10.0-windows\ref\Aplicacio.dll
