@@ -1,0 +1,5 @@
+gameinstance: cada partida fa el seu propi fil pero nomes pot executarse una simultaniament
+gamemanager: handleIncoming, no fa falta buscar la sessio del jugador perque nomes n hi ha una
+wshandler: afterconnectionclosed afegit metode ondisconnect per netejar dades
+
+comentar i documentar tot la carpeta api
